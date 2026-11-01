@@ -1,6 +1,4 @@
 // Chave para armazenamento no localStorage
-const STORAGE_KEY = 'mindhub_state_v2';
-
 // Estado padrão inicial da aplicação
 const defaultState = {
   tasks: [
