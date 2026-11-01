@@ -91,7 +91,7 @@ function resetDataModal() {
     }
 }
 // O seu código entra aqui atribuído à constante defaultState:
-const defaultState = {
+defaultState = {
     tasks: [
         { id: '1', title: 'Revisar relatório trimestral', priority: 'Alta', status: 'In Progress', category: 'Trabalho', dueDate: '2026-10-10' }
     ],
