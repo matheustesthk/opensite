@@ -90,9 +90,6 @@ function resetDataModal() {
         saveState();
     }
 }
-// js/state.js
-const STORAGE_KEY = 'mindhub_gui_data_v2';
-
 // O seu código entra aqui atribuído à constante defaultState:
 const defaultState = {
     tasks: [
